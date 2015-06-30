@@ -11,7 +11,7 @@ public class SuperficieCuadrado {
 		int superficie;
 		System.out.print("Ingrese el valor del lado del cuadrado:");
 		lado=teclado.nextInt();
-		superficie=lado*lado*lado;
+		superficie=lado*lado;
 		System.out.print("La superficie del cuadrado es:");
 		System.out.print(superficie);
 	}
