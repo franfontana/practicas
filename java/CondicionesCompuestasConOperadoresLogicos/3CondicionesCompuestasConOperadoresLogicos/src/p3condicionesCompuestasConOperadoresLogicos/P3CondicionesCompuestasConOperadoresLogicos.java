@@ -1,9 +1,9 @@
 //3) Se ingresan por teclado tres números, si todos los valores ingresados son menores a 10, imprimir en pantalla la leyenda "Todos los números son menores a diez".
 
-package condicionesCompuestasConOperadoresLogicos3;
+package p3condicionesCompuestasConOperadoresLogicos;
 
 import java.util.Scanner;
-public class CondicionesCompuestasConOperadoresLogicos3 {
+public class P3CondicionesCompuestasConOperadoresLogicos {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
