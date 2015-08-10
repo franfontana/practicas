@@ -1,7 +1,9 @@
-package sumaProductoNumeros;
+//Tenemos dos entradas num1 y num2 (recordar cuáles son los nombres de variables correctas), dos operaciones: realización de la suma y del producto de los valores ingresados y dos salidas, que son los resultados de la suma y el producto de los valores ingresados.
+
+package e1;
 
 import java.util.Scanner;
-public class SumaProductoNumeros {
+public class E1SumaProductoNumeros {
 
 	public static String nuevalinea = System.getProperty("line.separator");
 
